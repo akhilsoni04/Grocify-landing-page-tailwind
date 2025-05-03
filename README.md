@@ -20,7 +20,7 @@ This project showcases a clean grocery e-commerce UI with mobile-first responsiv
 
 ## 📸 Screenshots
 
-![Preview](Preview.png)
+![Preview](images/Preview.png)
 
 ---
 
