@@ -48,6 +48,6 @@ Or use Live Server in VS Code for live preview.
 
 ---
 
-##✨ Credits
-UI concept inspired by modern grocery delivery platforms.
+## ✨ Credits
+UI concept inspired by modern grocery delivery platforms.   
 Created by Akhil Soni
